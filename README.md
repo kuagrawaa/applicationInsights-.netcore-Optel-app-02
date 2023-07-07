@@ -1,0 +1,1 @@
+# applicationInsights-.netcore-Optel-app-02
